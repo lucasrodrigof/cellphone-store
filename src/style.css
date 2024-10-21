@@ -1,0 +1,26 @@
+.auth-form p {
+    color: red;
+    font-size: 0.9em;
+    margin-top: 0.5em;
+  }
+  
+  .auth-form input {
+    display: block;
+    margin-bottom: 0.5em;
+    padding: 0.5em;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .auth-form button {
+    padding: 0.5em 1em;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .auth-form button:hover {
+    background-color: #0056b3;
+  }
+  
